@@ -5,7 +5,7 @@
 }
 
 .background {
-    background-color: #000e14;
+    background-color: #010b14;
     height: 100vh;
     padding-top: 1px;
 }
@@ -76,9 +76,9 @@
 }
 
 .restart {
-    background-color: #498AFB;
+    background-color: #4084f8;
 }
 
 #reset {
-    background-color: #FF3860;
+    background-color: #f72f57;
 }
